@@ -5,7 +5,7 @@
 I'm an entry-level Data Scientist. 
 
 
-<!--
+
 **k4danilov/k4danilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 💻 Tech Stack:
