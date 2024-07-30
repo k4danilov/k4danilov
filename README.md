@@ -18,6 +18,12 @@ I received an education in natural sciences, such as Chemistry and Petroleum Eng
 | [Yandex.Practicum Data Science Projects](https://github.com/k4danilov/YP_projects)  | 💻 Tech stack|
 | [Power BI Dashboard](https://github.com/k4danilov/Power-BI-projects)| ![POWER BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge&logo=power%20bi&labelColor=black&color=black)|
 | [Kaggle projects](https://github.com/k4danilov/Kaggle-projects/tree/main) | ![PYTHON](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&labelColor=black&color=black) ![PANDAS](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/Sklearn-blue?style=for-the-badge&logo=scikit-learn&color=black)
+| [DoDo Pizza hackathon](https://github.com/k4danilov/First-Cup-hackathon) | ![PYTHON](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&labelColor=black&color=black) ![PANDAS](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/Sklearn-blue?style=for-the-badge&logo=scikit-learn&color=black) ![Static Badge](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logoColor=violet&logoSize=auto&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/LightGBM-blue?style=for-the-badge&logoColor=violet&logoSize=auto&labelColor=black&color=black) ![Static Badge](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logoColor=violet&logoSize=auto&labelColor=black&color=black)
+
+
+
+
+
 
 
 
